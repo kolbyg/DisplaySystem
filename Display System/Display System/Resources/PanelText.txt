@@ -1,0 +1,12 @@
+#Display System Panel Text
+#Please enter text in the following format:
+#Day 1\nA\nB\nC\nD
+#Note the \n for newline
+
+Sunday:"Day 1\nA\nB\nC\nD"
+Monday:"Day 1\nA\nB\nC\nD"
+Tuesday:"Day 1\nA\nB\nC\nD"
+Wednesday:"Day 1\nA\nB\nC\nD"
+Thursday:"Day 1\nA\nB\nC\nD"
+Friday:"Day 1\nA\nB\nC\nD"
+Saturday:"Day 1\nA\nB\nC\nD"
